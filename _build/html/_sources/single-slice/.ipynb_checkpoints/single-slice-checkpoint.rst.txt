@@ -1,0 +1,18 @@
+Single-slice analysis using MS
+===========================================
+
+.. toctree::
+    :maxdepth: 1
+   
+    Dataset1
+    Dataset2
+    Dataset3
+    Dataset4
+    Dataset5
+    Dataset6
+    Dataset7
+    Dataset8
+    Dataset9
+    Dataset10
+    Dataset14
+
